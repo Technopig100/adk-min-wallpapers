@@ -1,10 +1,10 @@
-## ADK-Linux Wallpapers
+## ADK-Linux min Wallpaper
 
-Adk-linux Wallpapers is a collection of mountain images.
+Adk-linux min Wallpaper is one mountain image.
 
 In this repository you'll find:
 
--  ADK-Linux Wallpaper Mountain Themes
+-  ADK-Linux min Wallpaper Mountain Theme
 
 ## License
 
